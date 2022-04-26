@@ -1,0 +1,1239 @@
+{
+    "spider": "https://raw.fastgit.org/anaer/Sub/main/meow/meow.jar;md5;e43a84197bf0dcac50990fbc7f2ca470",
+    "wallpaper": "https://api.ixiaowai.cn/gqapi/gqapi.php",
+    "sites": [
+        {
+            "key": "百度云",
+            "name": "百度云",
+            "type": 1,
+            "api": "https://api.apibdzy.com/api.php/provide/vod?ac=list",
+            "categories": [
+                "日本动漫",
+                "韩剧",
+                "香港剧",
+                "日本剧",
+                "国产剧",
+                "台湾剧",
+                "大陆综艺",
+                "日韩综艺",
+                "港台综艺",
+                "欧美剧",
+                "欧美综艺",
+                "海外剧",
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "犯罪片",
+                "纪录片",
+                "动漫电影",
+                "国产动漫",
+                "欧美动漫"
+            ]
+        },
+        {
+            "key": "8090资源",
+            "name": "8090资源",
+            "type": 1,
+            "api": "http://zy.yilans.net:8090/api.php/provide/vod/",
+            "categories": [
+                "港台剧",
+                "日韩剧",
+                "欧美剧",
+                "国产剧",
+                "动漫",
+                "综艺",
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "惊悚片",
+                "魔幻片",
+                "冒险片",
+                "悬疑片",
+                "纪录片",
+                "犯罪片",
+                "微电影",
+                "其他片",
+                "动画片"
+            ]
+        },
+        {
+            "key": "无尽资源",
+            "name": "无尽资源",
+            "type": 1,
+            "api": "http://wujinzy.com/api.php/provide/vod/",
+            "categories": [
+                "国产剧",
+                "香港剧",
+                "台湾剧",
+                "美国剧",
+                "韩国剧",
+                "日本剧",
+                "日韩动漫",
+                "欧美动漫",
+                "大陆综艺",
+                "日韩综艺",
+                "港台综艺",
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "悬疑片",
+                "动画片",
+                "犯罪片",
+                "奇幻片"
+            ]
+        },
+        {
+            "key": "小小影视",
+            "name": "小小影视（爬虫）",
+            "type": 0,
+            "api": "https://www.mbomovie.com/api.php/provide/vod/at/xml",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": []
+        },
+        {
+            "key": "天空资源",
+            "name": "天空资源",
+            "type": 1,
+            "api": "http://api.tiankongapi.com/api.php/provide/vod/",
+            "categories": [
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "惊悚片",
+                "犯罪片",
+                "动漫片",
+                "国产剧",
+                "韩国剧",
+                "香港剧",
+                "台湾剧",
+                "美国剧",
+                "日本剧",
+                "海外剧",
+                "纪录片",
+                "国产动漫",
+                "日本动漫",
+                "欧美动漫",
+                "海外动漫",
+                "大陆综艺",
+                "日韩综艺",
+                "港台综艺",
+                "欧美综艺"
+            ]
+        },
+        {
+            "key": "易看影视",
+            "name": "易看影视",
+            "type": 0,
+            "api": "http://video.ykvideo.cn/api.php/provide/vod/from/ppayun/at/xml/",
+            "categories": []
+        },
+        {
+            "key": "樱花资源",
+            "name": "樱花资源",
+            "type": 1,
+            "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "categories": []
+        },
+        {
+            "key": "乐活资源",
+            "name": "乐活资源",
+            "type": 0,
+            "api": "https://lehootv.com/api.php/provide/vod/at/xml/",
+            "categories": []
+        },
+        {
+            "key": "嗨多咪影视",
+            "name": "嗨多咪影视",
+            "type": 0,
+            "api": "http://hdmys1.com/api.php/provide/vod/at/xml/",
+            "categories": []
+        },
+        {
+            "key": "片库网",
+            "name": "片库网",
+            "type": 0,
+            "api": "https://pianku.wang/api.php/provide/vod/at/xml/",
+            "playUrl": "https://vip.parwix.com:4433/player/?url=",
+            "categories": []
+        },
+        {
+            "key": "人人资源",
+            "name": "人人资源",
+            "type": 0,
+            "api": "https://www.rrzyw.cc/api.php/provide/vod/at/xml",
+            "categories": []
+        },
+        {
+            "key": "麒麟资源",
+            "name": "麒麟资源",
+            "type": 0,
+            "api": "https://www.qilinzyz.com/api.php/provide/vod/at/xml",
+            "categories": []
+        }
+    ],
+    "lives": [
+        {
+            "group": "卫视",
+            "channels": [
+                {
+                    "name": "贵州卫视",
+                    "urls": [
+                        "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225483/index.m3u8?fmt=ts2hls",
+                        "http://39.130.202.76:6610/gitv_live/G_GUIZHOU-HD/G_GUIZHOU-HD.m3u8",
+                        "http://39.130.202.81:6610/gitv_live/G_GUIZHOU-HD/G_GUIZHOU-HD.m3u8",
+                        "http://coocaa-ynbit-ws.ifengli.com:2381/live/gzws-sd/1.m3u8",
+                        "http://cdn1.ynumc.com:8278/gzws/playlist.m3u8"
+                    ]
+                },
+                {
+                    "name": "河北卫视",
+                    "urls": [
+                        "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225610/index.m3u8?fmt=ts2hls",
+                        "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225750/index.m3u8",
+                        "http://v.mp.haue.edu.cn/hls/hebhd.m3u8",
+                        "http://live2.plus.hebtv.com/hbwsx/hd/live.m3u8",
+                        "http://223.110.236.9/ott.js.chinamobile.com/PLTV/3/224/3221228106/index.m3u8"
+                    ]
+                },
+                {
+                    "name": "河南卫视",
+                    "urls": [
+                        "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225611/index.m3u8?fmt=ts2hls",
+                        "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226108/1.m3u8",
+                        "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226108/index.m3u8",
+                        "http://coocaa-ynbit-ws.ifengli.com:2381/live/hnws-sd/1.m3u8",
+                        "http://111.13.42.45/PLTV/88888888/224/3221226525/1.m3u8"
+                    ]
+                },
+                {
+                    "name": "浙江卫视",
+                    "urls": [
+                        "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8",
+                        "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225798/index.m3u8",
+                        "http://39.135.138.60:18890/PLTV/88888910/224/3221225744/index.m3u8",
+                        "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225744/index.m3u8",
+                        "http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225798/index.m3u8$3M1080P"
+                    ]
+                },
+                {
+                    "name": "湖南卫视",
+                    "urls": [
+                        "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226211/index.m3u8",
+                        "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225799/index.m3u8",
+                        "http://39.134.115.163:8080/PLTV/88888910/224/3221225745/index.m3u8",
+                        "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225745/index.m3u8",
+                        "http://117.148.179.148/PLTV/88888888/224/3221230824/index.m3u8"
+                    ]
+                },
+                {
+                    "name": "北京卫视",
+                    "urls": [
+                        "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8",
+                        "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8",
+                        "http://39.134.24.24/PLTV/88888888/224/3221225833/index.m3u8",
+                        "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225673/index.m3u8",
+                        "https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8"
+                    ]
+                },
+                {
+                    "name": "深圳卫视",
+                    "urls": [
+                        "http://39.134.39.37/PLTV/88888888/224/3221226199/index.m3u8",
+                        "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8",
+                        "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225801/index.m3u8",
+                        "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226111/1.m3u8",
+                        "http://39.134.24.24/PLTV/88888888/224/3221225843/index.m3u8"
+                    ]
+                },
+                {
+                    "name": "广西卫视",
+                    "urls": [
+                        "http://39.130.202.76:6610/gitv_live/G_GUANGXI-HD/G_GUANGXI-HD.m3u8",
+                        "http://39.130.202.81:6610/gitv_live/G_GUANGXI-HD/G_GUANGXI-HD.m3u8",
+                        "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225792/index.m3u8",
+                        "http://180.139.114.49:4022/udp/239.81.0.107:4056",
+                        "http://111.13.42.8/PLTV/88888888/224/3221225879/1.m3u8"
+                    ]
+                },
+                {
+                    "name": "云南卫视",
+                    "urls": [
+                        "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225751/index.m3u8",
+                        "http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227181/index.m3u8?servicetype=1",
+                        "http://39.135.55.105:6610/PLTV/88888888/224/3221227181/index.m3u8?servicetype=1",
+                        "http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225853/index.m3u8?servicetype=1"
+                    ]
+                },
+                {
+                    "name": "四川卫视",
+                    "urls": [
+                        "http://117.148.179.160/PLTV/88888888/224/3221231885/index.m3u8",
+                        "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226096/index.m3u8",
+                        "http://183.224.43.183:8007/TV/0/00000001000000050000000000000116/121.m3u8",
+                        "http://coocaa-ynbit-ws.ifengli.com:2381/live/scws-hd/1.m3u8",
+                        "http://iptv.tvfix.org/hls/schd.m3u8"
+                    ]
+                },
+                {
+                    "name": "辽宁卫视",
+                    "urls": [
+                        "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226210/index.m3u8",
+                        "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226201/index.m3u8",
+                        "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225735/index.m3u8",
+                        "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225601/index.m3u8?fmt=ts2hls",
+                        "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225696/index.m3u8"
+                    ]
+                },
+                {
+                    "name": "东方卫视",
+                    "urls": [
+                        "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226261/index.m3u8",
+                        "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225797/index.m3u8",
+                        "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226082/1.m3u8",
+                        "http://39.134.24.24/PLTV/88888888/224/3221225835/index.m3u8",
+                        "http://39.135.138.59:18890/PLTV/88888910/224/3221225659/index.m3u8"
+                    ]
+                },
+                {
+                    "name": "安徽卫视",
+                    "urls": [
+                        "http://39.135.138.59:18890/PLTV/88888910/224/3221225737/index.m3u8",
+                        "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226196/index.m3u8",
+                        "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226203/index.m3u8",
+                        "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226087/1.m3u8",
+                        "http://39.134.24.24/PLTV/88888888/224/3221225847/index.m3u8"
+                    ]
+                },
+                {
+                    "name": "重庆卫视",
+                    "urls": [
+                        "http://39.135.138.59:18890/PLTV/88888910/224/3221225734/index.m3u8",
+                        "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225734/index.m3u8",
+                        "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226202/index.m3u8",
+                        "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226062/1.m3u8",
+                        "http://223.110.242.134:6610/cntv/live1/HD-8000k-1080P-chongqingstv/1.m3u8"
+                    ]
+                },
+                {
+                    "name": "东南卫视",
+                    "urls": [
+                        "http://39.134.39.37/PLTV/88888888/224/3221226182/index.m3u8",
+                        "http://39.135.40.170/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225696/index.m3u8",
+                        "http://111.40.196.9/PLTV/88888888/224/3221225583/index.m3u8",
+                        "http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5a1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=23&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1",
+                        "http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226406/1.m3u8"
+                    ]
+                },
+                {
+                    "name": "广东卫视",
+                    "urls": [
+                        "http://39.135.138.60:18890/PLTV/88888910/224/3221225701/index.m3u8",
+                        "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226216/index.m3u8",
+                        "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225742/index.m3u8",
+                        "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225803/index.m3u8",
+                        "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226076/1.m3u8"
+                    ]
+                },
+                {
+                    "name": "黑龙江卫视",
+                    "urls": [
+                        "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226215/index.m3u8",
+                        "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8",
+                        "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226014/1.m3u8",
+                        "http://39.134.24.24/PLTV/88888888/224/3221225690/index.m3u8",
+                        "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225736/index.m3u8"
+                    ]
+                },
+                {
+                    "name": "湖北卫视",
+                    "urls": [
+                        "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226194/index.m3u8",
+                        "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/1.m3u8",
+                        "http://39.135.138.59:18890/PLTV/88888910/224/3221225699/index.m3u8",
+                        "rtsp://183.252.166.199/PLTV/88888888/224/3221226091/10000100000000060000000002296929_0.smil",
+                        "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225740/index.m3u8"
+                    ]
+                },
+                {
+                    "name": "江苏卫视",
+                    "urls": [
+                        "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8",
+                        "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225800/index.m3u8",
+                        "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226099/1.m3u8",
+                        "http://39.134.24.24/PLTV/88888888/224/3221225602/index.m3u8",
+                        "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225743/index.m3u8"
+                    ]
+                },
+                {
+                    "name": "江西卫视",
+                    "urls": [
+                        "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226085/1.m3u8",
+                        "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225705/index.m3u8",
+                        "http://39.135.140.227:6610/PLTV/88888888/224/3221225705/2/index.m3u8?fmt=ts2hls",
+                        "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225746/index.m3u8",
+                        "http://111.40.196.9/PLTV/88888888/224/3221225560/index.m3u8"
+                    ]
+                },
+                {
+                    "name": "山东卫视",
+                    "urls": [
+                        "http://39.134.39.37/PLTV/88888888/224/3221226162/index.m3u8",
+                        "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226209/index.m3u8",
+                        "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226067/1.m3u8",
+                        "http://59.49.111.212/live.aishang.ctlcdn.com/00000110240254_1/encoder/0/playlist.m3u8?CONTENTID=00000110240254_1",
+                        "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225738/index.m3u8"
+                    ]
+                },
+                {
+                    "name": "天津卫视",
+                    "urls": [
+                        "http://39.135.138.60:18890/PLTV/88888910/224/3221225739/index.m3u8",
+                        "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226204/index.m3u8",
+                        "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226073/1.m3u8",
+                        "http://117.148.179.37/PLTV/88888888/224/3221228818/index.m3u8",
+                        "http://111.40.196.9/PLTV/88888888/224/3221225604/index.m3u8"
+                    ]
+                },
+                {
+                    "name": "吉林卫视",
+                    "urls": [
+                        "http://39.135.129.165/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221227163/index.m3u8",
+                        "http://coocaa-ynbit-ws.ifengli.com:2381/live/jlws-hd/1.m3u8",
+                        "http://39.130.202.81:6610/gitv_live/G_JILIN-HQ/G_JILIN-HQ.m3u8",
+                        "http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=25&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1"
+                    ]
+                },
+                {
+                    "name": "海南卫视",
+                    "urls": [
+                        "http://iptv.tvfix.org/hls/lyhd.m3u8"
+                    ]
+                }
+            ]
+        },
+        {
+            "group": "央视",
+            "channels": [
+                {
+                    "name": "CETV1",
+                    "urls": [
+                        "http://39.130.202.81:6610/gitv_live/G_CETV-1-HD/G_CETV-1-HD.m3u8",
+                        "http://117.148.179.156/PLTV/88888888/224/3221231714/index.m3u8",
+                        "http://iptv.tvfix.org/hls/cetv1hd.m3u8"
+                    ]
+                },
+                {
+                    "name": "CCTV-3综艺",
+                    "urls": [
+                        "http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/1.m3u8",
+                        "http://39.134.67.7:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/1.m3u8",
+                        "http://111.40.196.9/PLTV/88888888/224/3221225588/index.m3u8",
+                        "http://39.134.115.163:8080/PLTV/88888910/224/3221225647/index.m3u8",
+                        "http://39.135.32.29:6610/000000001000/1000000001000011218/1.m3u8?"
+                    ]
+                },
+                {
+                    "name": "CCTV-5+体育赛事",
+                    "urls": [
+                        "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8",
+                        "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225649/index.m3u8",
+                        "http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/1.m3u8",
+                        "http://39.134.39.39/TVOD/88888888/224/3221226253/index.m3u8",
+                        "http://39.134.67.7:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/1.m3u8"
+                    ]
+                },
+                {
+                    "name": "CCTV-12社会与法",
+                    "urls": [
+                        "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8",
+                        "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225629/index.m3u8",
+                        "http://39.135.32.29:6610/000000001000/1000000001000032494/1.m3u8?",
+                        "http://39.135.138.59:18890/PLTV/88888910/224/3221225629/index.m3u8",
+                        "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225921/index.m3u8?fmt=ts2hls"
+                    ]
+                },
+                {
+                    "name": "CCTV-8电视剧",
+                    "urls": [
+                        "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225635/index.m3u8",
+                        "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8",
+                        "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225631/index.m3u8",
+                        "http://39.134.115.163:8080/PLTV/88888910/224/3221225635/index.m3u8",
+                        "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8"
+                    ]
+                },
+                {
+                    "name": "CCTV-16奥林匹克",
+                    "urls": [
+                        "http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8",
+                        "http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226880/index.m3u8",
+                        "https://live.olympicchannelchina.cn/aoyun/4kcctv16_1md.m3u8",
+                        "https://live.olympicchannelchina.cn/aoyun/4kcctv16_1hd.m3u8",
+                        "https://live.olympicchannelchina.cn/aoyun/4kcctv16_1ud.m3u8"
+                    ]
+                },
+                {
+                    "name": "CCTV-1综合",
+                    "urls": [
+                        "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8",
+                        "http://39.134.67.7:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/1.m3u8",
+                        "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225618/index.m3u8",
+                        "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225918/index.m3u8",
+                        "http://111.40.196.9/PLTV/88888888/224/3221225511/index.m3u8"
+                    ]
+                },
+                {
+                    "name": "CCTV-2财经",
+                    "urls": [
+                        "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8",
+                        "http://39.135.238.91/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226371/1.m3u8",
+                        "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225619/index.m3u8",
+                        "http://39.135.138.60:18890/PLTV/88888910/224/3221225643/index.m3u8",
+                        "http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226371/1.m3u8"
+                    ]
+                },
+                {
+                    "name": "CCTV-4中文国际",
+                    "urls": [
+                        "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8",
+                        "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225621/index.m3u8",
+                        "http://202.204.118.254/hls/ch5.m3u8",
+                        "http://39.135.32.29:6610/000000001000/1000000002000031664/1.m3u8?",
+                        "http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226470/1.m3u8"
+                    ]
+                },
+                {
+                    "name": "CCTV-5体育",
+                    "urls": [
+                        "http://39.134.67.7:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/1.m3u8",
+                        "http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/1.m3u8",
+                        "http://111.63.117.13:6060/030000001000/CCTV-5/CCTV-5.m3u8",
+                        "http://117.169.120.160:8080/live/cctv-5/1.m3u8",
+                        "http://39.134.134.88:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226469/1.m3u8"
+                    ]
+                },
+                {
+                    "name": "CCTV-6电影",
+                    "urls": [
+                        "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8",
+                        "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/1.m3u8",
+                        "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225632/index.m3u8",
+                        "http://womlive.cloud.wo.cn/tvlive/100002/otpzod_otpzod,100002_hls_pull_2000K_live.m3u8",
+                        "http://117.148.179.160/PLTV/88888888/224/3221231978/index.m3u8"
+                    ]
+                },
+                {
+                    "name": "CCTV-7国防军事",
+                    "urls": [
+                        "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8",
+                        "http://39.135.32.29:6610/000000001000/1000000001000017218/1.m3u8?",
+                        "http://39.135.137.15:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/1.m3u8",
+                        "http://39.135.138.60:18890/PLTV/88888910/224/3221225624/index.m3u8",
+                        "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8"
+                    ]
+                },
+                {
+                    "name": "CCTV-9纪录",
+                    "urls": [
+                        "http://39.134.115.163:8080/PLTV/88888910/224/3221225626/index.m3u8$3M1080P",
+                        "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225626/index.m3u8",
+                        "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225646/index.m3u8",
+                        "http://39.135.137.32:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/1.m3u8",
+                        "http://39.134.134.88:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226465/1.m3u8"
+                    ]
+                },
+                {
+                    "name": "CCTV-10科教",
+                    "urls": [
+                        "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8",
+                        "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225496/index.m3u8?fmt=ts2hls",
+                        "http://39.134.67.55:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/1.m3u8",
+                        "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225636/index.m3u8",
+                        "http://39.135.137.15:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/1.m3u8"
+                    ]
+                },
+                {
+                    "name": "CCTV-11戏曲",
+                    "urls": [
+                        "http://223.110.251.152:6610/cntv/live1/cctv-11/cctv-11",
+                        "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225628/index.m3u8",
+                        "http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8",
+                        "http://39.134.115.163:8080/PLTV/88888910/224/3221225628/index.m3u8",
+                        "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8"
+                    ]
+                },
+                {
+                    "name": "CCTV-13新闻",
+                    "urls": [
+                        "http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8$3M1080P",
+                        "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225638/index.m3u8",
+                        "http://111.40.196.9/PLTV/88888888/224/3221225504/index.m3u8",
+                        "http://39.134.67.55:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/1.m3u8",
+                        "http://39.135.140.104:6610/PLTV/88888888/224/3221225638/2/index.m3u8?fmt=ts2hls"
+                    ]
+                },
+                {
+                    "name": "CCTV-14少儿",
+                    "urls": [
+                        "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8",
+                        "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225639/index.m3u8",
+                        "http://39.135.138.60:18890/PLTV/88888910/224/3221225639/index.m3u8",
+                        "http://39.135.137.15:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/1.m3u8",
+                        "http://39.134.66.66/PLTV/88888888/224/3221225674/index.m3u8"
+                    ]
+                },
+                {
+                    "name": "CCTV-15音乐",
+                    "urls": [
+                        "http://39.135.138.58:18890/PLTV/88888910/224/3221225641/index.m3u8",
+                        "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8",
+                        "http://39.135.34.150:8080/000000001000/1000000002000008163/1.m3u8?xtkg",
+                        "http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8",
+                        "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8"
+                    ]
+                },
+                {
+                    "name": "CCTV-17农业农村",
+                    "urls": [
+                        "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8",
+                        "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225907/index.m3u8",
+                        "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225908/index.m3u8",
+                        "http://39.134.66.110/PLTV/88888888/224/3221225708/index.m3u8",
+                        "http://39.130.202.81:6610/gitv_live/G_CCTV-17-HD/G_CCTV-17-HD.m3u8"
+                    ]
+                },
+                {
+                    "name": "CCTV风云足球",
+                    "urls": [
+                        "http://42.176.185.28:9901/tsfile/live/1017_1.m3u8",
+                        "http://host496323.us.ooqr.com/pltv/gdgz.php?id=119&upt=63a44f4ef2f3c6ce",
+                        "http://[2001:250:4801::430:89]/hls/hls184a510.m3u8"
+                    ]
+                },
+                {
+                    "name": "CCTV世界地理",
+                    "urls": [
+                        "http://42.176.185.28:9901/tsfile/live/1037_1.m3u8",
+                        "http://host496323.us.ooqr.com/pltv/gdgz.php?id=124&upt=63a44f4ef2f3c6ce",
+                        "http://[2001:250:4801::430:89]/hls/hls184a515.m3u8"
+                    ]
+                }
+            ]
+        },
+        {
+            "group": "港澳台海外",
+            "channels": [
+                {
+                    "name": "凤凰香港台",
+                    "urls": [
+                        "http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8",
+                        "http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8",
+                        "http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8?icpid=88888888&from=0&hms_devid=38044364",
+                        "http://66.90.88.132:8080/hls/ph00453/index.m3u8"
+                    ]
+                },
+                {
+                    "name": "凤凰卫视资讯台",
+                    "urls": [
+                        "http://39.134.135.125/otttv.bj.chinamobile.com/TVOD/88888888/224/3221225948/index.m3u8",
+                        "http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8",
+                        "http://125.210.152.18:9090/live/FHZX_1200.m3u8",
+                        "http://m-tvlmedia.public.bcs.ysten.com/ysten-bussiness/live/fhzixun/1.m3u8",
+                        "rtmp://45.88.148.178/channel/60c2f46e961593122ebaf8cb?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpljb%2FpPGYAqq21iv2vQJp%2B%2B%2FBLThgPxbdMeXbUy1XfWEH"
+                    ]
+                },
+                {
+                    "name": "凤凰中文",
+                    "urls": [
+                        "http://117.169.120.138:8080/live/fhchinese/index.m3u8",
+                        "http://stream.guihet.com/t/ifeng2.php?id=2",
+                        "http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8",
+                        "http://111.13.42.8/PLTV/88888888/224/3221225942/1.m3u8",
+                        "http://111.13.42.8/PLTV/88888888/224/3221225948/1.m3u8"
+                    ]
+                }
+            ]
+        },
+        {
+            "group": "游戏轮播",
+            "channels": [
+                {
+                    "name": "哒啵赛事",
+                    "urls": [
+                        "http://39.134.65.82/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8",
+                        "http://39.134.66.66/PLTV/88888888/224/3221225559/index.m3u8",
+                        "http://39.134.115.163:8080/PLTV/88888888/224/3221225750/index.m3u8",
+                        "http://39.134.115.163:8080/PLTV/88888888/224/3221225653/index.m3u8",
+                        "http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229678/index.m3u8"
+                    ]
+                },
+                {
+                    "name": "KPL",
+                    "urls": [
+                        "http://tx2play1.douyucdn.cn/live/1863767rkpl_4000p.xs?",
+                        "https://cn-jxnc-cmcc-live-02.bilivideo.com/live-bvc/288045/live_392836434_52698792_4000.m3u8"
+                    ]
+                }
+            ]
+        }
+    ],
+    "flags": [
+        "youku",
+        "kbzy",
+        "dbyun",
+        "ftqp4",
+        "ftqp5",
+        "qq",
+        "iqiyi",
+        "qiyi",
+        "letv",
+        "sohu",
+        "tudou",
+        "pptv",
+        "mgtv",
+        "wasu",
+        "789pan",
+        "rrm3u8",
+        "cctv",
+        "bilibili",
+        "renrenmi",
+        "cntv",
+        "wjyun",
+        "le",
+        "miaoparty",
+        "duoduozy",
+        "ltnb",
+        "longteng",
+        "xigua",
+        "1905",
+        "优酷",
+        "1920i",
+        "芒果",
+        "1920l",
+        "腾讯",
+        "mim3u8",
+        "爱奇艺",
+        "laodim3u8",
+        "奇艺",
+        "leduo",
+        "CL4K",
+        "rx",
+        "ziqie",
+        "wuduyun",
+        "wuduzy",
+        "xueren",
+        "naifeimi",
+        "xuanfeng",
+        "miaoparty2",
+        "miaoparty3",
+        "xfy",
+        "xfyun",
+        "x1play",
+        "fuckapp",
+        "ftqp2",
+        "ftqp3"
+    ],
+    "parses": [
+        {
+            "name": "Json轮询",
+            "type": 2,
+            "url": "Sequence"
+        },
+        {
+            "name": "Json并发",
+            "type": 2,
+            "url": "Parallel"
+        },
+        {
+            "name": "蓝光视频",
+            "type": 1,
+            "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url="
+        },
+        {
+            "name": "爱奇艺",
+            "type": 1,
+            "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=7631191&key=cdemqsxFGKLNRVXYZ9&url="
+        },
+        {
+            "name": "8090",
+            "type": "",
+            "url": "http://ts.yjhan.com:8090/api/?type=app&key=43yVlZDaJg7dYH3DZi&url="
+        },
+        {
+            "name": "全能VIP",
+            "type": "",
+            "url": "https://jx.cxk8.com?v="
+        },
+        {
+            "name": "renren",
+            "type": 1,
+            "url": "https://jx.blbo.cc:4433/?url="
+        },
+        {
+            "name": "猫群专用7",
+            "type": 1,
+            "url": "https://godaddy-oss.wkfile.com/phoneapp/encryptionjm.php?url="
+        },
+        {
+            "name": "猫群专用8",
+            "type": 1,
+            "url": "http://play.sxmj.wang/znjson.php?url="
+        },
+        {
+            "name": "LT",
+            "type": 1,
+            "url": "https://jb.vjiangbei.com/home/api?type=ys&uid=2219260&key=hlmnpqswHIKQRSX146&url="
+        }
+    ],
+    "ijk": [
+        {
+            "group": "硬解码",
+            "options": [
+                {
+                    "category": 4,
+                    "name": "opensles",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "overlay-format",
+                    "value": "842225234"
+                },
+                {
+                    "category": 4,
+                    "name": "framedrop",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "soundtouch",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "start-on-prepared",
+                    "value": "1"
+                },
+                {
+                    "category": 1,
+                    "name": "http-detect-range-support",
+                    "value": "0"
+                },
+                {
+                    "category": 1,
+                    "name": "fflags",
+                    "value": "fastseek"
+                },
+                {
+                    "category": 2,
+                    "name": "skip_loop_filter",
+                    "value": "48"
+                },
+                {
+                    "category": 4,
+                    "name": "reconnect",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "max-buffer-size",
+                    "value": "52428800"
+                },
+                {
+                    "category": 4,
+                    "name": "max_cached_duration",
+                    "value": "3000"
+                },
+                {
+                    "category": 4,
+                    "name": "enable-accurate-seek",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-auto-rotate",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-handle-resolution-change",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-hevc",
+                    "value": "1"
+                }
+            ]
+        },
+        {
+            "group": "软解码",
+            "options": [
+                {
+                    "category": 4,
+                    "name": "opensles",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "overlay-format",
+                    "value": "842225234"
+                },
+                {
+                    "category": 4,
+                    "name": "framedrop",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "soundtouch",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "start-on-prepared",
+                    "value": "1"
+                },
+                {
+                    "category": 1,
+                    "name": "http-detect-range-support",
+                    "value": "0"
+                },
+                {
+                    "category": 1,
+                    "name": "fflags",
+                    "value": "fastseek"
+                },
+                {
+                    "category": 2,
+                    "name": "skip_loop_filter",
+                    "value": "48"
+                },
+                {
+                    "category": 4,
+                    "name": "reconnect",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "max-buffer-size",
+                    "value": "52428800"
+                },
+                {
+                    "category": 4,
+                    "name": "enable-accurate-seek",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-auto-rotate",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-handle-resolution-change",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-hevc",
+                    "value": "0"
+                }
+            ]
+        },
+        {
+            "group": "A硬解码",
+            "options": [
+                {
+                    "category": 4,
+                    "name": "opensles",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "overlay-format",
+                    "value": "842225234"
+                },
+                {
+                    "category": 4,
+                    "name": "framedrop",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "soundtouch",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "start-on-prepared",
+                    "value": "1"
+                },
+                {
+                    "category": 1,
+                    "name": "http-detect-range-support",
+                    "value": "0"
+                },
+                {
+                    "category": 1,
+                    "name": "fflags",
+                    "value": "fastseek"
+                },
+                {
+                    "category": 2,
+                    "name": "skip_loop_filter",
+                    "value": "48"
+                },
+                {
+                    "category": 4,
+                    "name": "reconnect",
+                    "value": "3"
+                },
+                {
+                    "category": 4,
+                    "name": "max-buffer-size",
+                    "value": "52428800"
+                },
+                {
+                    "category": 4,
+                    "name": "max_cached_duration",
+                    "value": "3000"
+                },
+                {
+                    "category": 4,
+                    "name": "enable-accurate-seek",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-auto-rotate",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-handle-resolution-change",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-hevc",
+                    "value": "1"
+                },
+                {
+                    "category": 1,
+                    "name": "analyzeduration",
+                    "value": 1
+                },
+                {
+                    "category": 1,
+                    "name": "analyzemaxduration",
+                    "value": 100
+                },
+                {
+                    "category": 4,
+                    "name": "vol",
+                    "value": "256"
+                }
+            ]
+        },
+        {
+            "group": "B软解码",
+            "options": [
+                {
+                    "category": 4,
+                    "name": "opensles",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "overlay-format",
+                    "value": "842225234"
+                },
+                {
+                    "category": 4,
+                    "name": "framedrop",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "soundtouch",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "start-on-prepared",
+                    "value": "1"
+                },
+                {
+                    "category": 1,
+                    "name": "http-detect-range-support",
+                    "value": "0"
+                },
+                {
+                    "category": 1,
+                    "name": "fflags",
+                    "value": "fastseek"
+                },
+                {
+                    "category": 2,
+                    "name": "skip_loop_filter",
+                    "value": "48"
+                },
+                {
+                    "category": 4,
+                    "name": "reconnect",
+                    "value": "3"
+                },
+                {
+                    "category": 4,
+                    "name": "max-buffer-size",
+                    "value": "52428800"
+                },
+                {
+                    "category": 4,
+                    "name": "max_cached_duration",
+                    "value": "3000"
+                },
+                {
+                    "category": 4,
+                    "name": "enable-accurate-seek",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-auto-rotate",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-handle-resolution-change",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-hevc",
+                    "value": "0"
+                },
+                {
+                    "category": 1,
+                    "name": "analyzeduration",
+                    "value": 1
+                },
+                {
+                    "category": 1,
+                    "name": "analyzemaxduration",
+                    "value": 100
+                },
+                {
+                    "category": 4,
+                    "name": "vol",
+                    "value": "256"
+                },
+                {
+                    "category": 1,
+                    "name": "dns_cache_timeout",
+                    "value": "600000000"
+                }
+            ]
+        }
+    ],
+    "ads": [
+        "mimg.0c1q0l.cn",
+        "www.googletagmanager.com",
+        "www.google-analytics.com",
+        "mc.usihnbcq.cn",
+        "mg.g1mm3d.cn",
+        "mscs.svaeuzh.cn",
+        "cnzz.hhttm.top",
+        "tp.vinuxhome.com",
+        "cnzz.mmstat.com",
+        "www.baihuillq.com",
+        "s23.cnzz.com",
+        "z3.cnzz.com",
+        "c.cnzz.com",
+        "stj.v1vo.top",
+        "z12.cnzz.com",
+        "img.mosflower.cn",
+        "tips.gamevvip.com",
+        "ehwe.yhdtns.com",
+        "xdn.cqqc3.com",
+        "www.jixunkyy.cn",
+        "sp.chemacid.cn",
+        "hm.baidu.com",
+        "s9.cnzz.com",
+        "z6.cnzz.com",
+        "um.cavuc.com",
+        "mav.mavuz.com",
+        "wofwk.aoidf3.com",
+        "z5.cnzz.com",
+        "xc.hubeijieshikj.cn",
+        "tj.tianwenhu.com",
+        "xg.gars57.cn",
+        "k.jinxiuzhilv.com",
+        "cdn.bootcss.com",
+        "ppl.xunzhuo123.com",
+        "xomk.jiangjunmh.top",
+        "img.xunzhuo123.com",
+        "z1.cnzz.com",
+        "s13.cnzz.com",
+        "xg.huataisangao.cn",
+        "z7.cnzz.com",
+        "xg.huataisangao.cn",
+        "z2.cnzz.com",
+        "s96.cnzz.com",
+        "q11.cnzz.com",
+        "thy.dacedsfa.cn",
+        "xg.whsbpw.cn",
+        "s19.cnzz.com",
+        "z8.cnzz.com",
+        "s4.cnzz.com",
+        "f5w.as12df.top",
+        "ae01.alicdn.com",
+        "www.92424.cn",
+        "k.wudejia.com",
+        "vivovip.mmszxc.top",
+        "qiu.xixiqiu.com",
+        "cdnjs.hnfenxun.com",
+        "cms.qdwght.com"
+    ]
+}
